@@ -20,6 +20,7 @@ public class Colaborador1 {
         // casa verde
         //modificacion2
         //casa azul
+        //amarilla
     }
     
 }
